@@ -1,0 +1,10 @@
+/config/database.local.php
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
